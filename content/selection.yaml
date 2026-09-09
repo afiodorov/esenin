@@ -1,0 +1,201 @@
+# Curated selection. Edit freely; order is book order.
+# Fields per work: source_title (Wikisource page), display_title, display_subtitle, year, cycle, source_url, source_revision, notes.
+# `notes` are editor notes and never printed into the EPUB.
+book:
+  title: Сергей Есенин — Любовь, исповедь и сказки
+  author: Сергей Александрович Есенин
+  language: ru
+  description: Личная тематическая подборка стихотворений и стихотворных сказок Сергея Есенина.
+  identifier: urn:uuid:7c1f4a3e-2f0b-4b52-9c4e-3d5a1e9b7c02
+sections:
+- title: Любовь хулигана
+  works:
+  - source_title: Заметался пожар голубой (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Ты такая ж простая, как все (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Пускай ты выпита другим (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Дорогая, сядем рядом (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Мне грустно на тебя смотреть (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Ты прохладой меня не мучай (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+  - source_title: Вечер чёрные брови насопил (Есенин)
+    year: 1923
+    cycle: Любовь хулигана
+- title: Персидские мотивы
+  works:
+  - source_title: Улеглась моя былая рана (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Я спросил сегодня у менялы (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Шаганэ ты моя, Шаганэ! (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Ты сказала, что Саади (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Никогда я не был на Босфоре (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Свет вечерний шафранного края (Есенин)
+    year: 1924
+    cycle: Персидские мотивы
+  - source_title: Воздух прозрачный и синий (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Золото холодное луны (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: В Хороссане есть такие двери (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Голубая родина Фирдуси (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Быть поэтом — это значит то же (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Руки милой — пара лебедей (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Отчего луна так светит тускло (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Глупое сердце, не бейся (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+  - source_title: Голубая да весёлая страна (Есенин)
+    year: 1925
+    cycle: Персидские мотивы
+- title: Любовь, женщины, расставания
+  works:
+  - source_title: Письмо к женщине (Есенин)
+    year: 1924
+  - source_title: Выткался на озере алый свет зари (Есенин)
+    year: 1910
+  - source_title: Хороша была Танюша, краше не было в селе (Есенин)
+  - source_title: Ты плакала в вечерней тишине (Есенин)
+    year: 1913
+  - source_title: Не бродить, не мять в кустах багряных (Есенин)
+    year: 1916
+  - source_title: Сукин сын (Есенин)
+    year: 1924
+  - source_title: Собаке Качалова (Есенин)
+    year: 1925
+  - source_title: Ну, целуй меня, целуй (Есенин)
+    year: 1925
+  - source_title: Я помню, любимая, помню (Есенин)
+    year: 1925
+  - source_title: Какая ночь! Я не могу (Есенин)
+    year: 1925
+  - source_title: Ты меня не любишь, не жалеешь (Есенин)
+    year: 1925
+  - source_title: Не гляди на меня с упрёком (Есенин)
+    year: 1925
+  - source_title: Может, поздно, может, слишком рано (Есенин)
+    year: 1925
+  - source_title: Кто я? Что я? Только лишь мечтатель (Есенин)
+    year: 1925
+  - source_title: Голубая кофта. Синие глаза (Есенин)
+    year: 1925
+  - source_title: Не криви улыбку, руки теребя (Есенин)
+    year: 1925
+  - source_title: Видно, так заведено навеки (Есенин)
+    year: 1925
+  - source_title: Вижу сон. Дорога чёрная (Есенин)
+    year: 1925
+  - source_title: Плачет метель, как цыганская скрипка (Есенин)
+    year: 1925
+  - source_title: Листья падают, листья падают (Есенин)
+    year: 1925
+- title: Кабак, одиночество, исповедь
+  works:
+  - source_title: Устал я жить в родном краю (Есенин)
+    year: 1916
+  - source_title: Слушай, поганое сердце (Есенин)
+    year: 1916
+  - source_title: Исповедь хулигана (Есенин)
+    year: 1920
+  - source_title: Не жалею, не зову, не плачу (Есенин)
+    year: 1921
+  - source_title: Я обманывать себя не стану (Есенин)
+    year: 1922
+  - source_title: Да! Теперь решено. Без возврата (Есенин)
+    year: 1922
+  - source_title: Снова пьют здесь, дерутся и плачут (Есенин)
+    year: 1922
+  - source_title: Сыпь, гармоника! (Есенин)
+    year: 1923
+  - source_title: Пой же, пой. На проклятой гитаре (Есенин)
+    year: 1923
+  - source_title: Я усталым таким ещё не был (Есенин)
+    year: 1923
+  - source_title: Мне осталась одна забава (Есенин)
+    year: 1923
+  - source_title: Грубым даётся радость (Есенин)
+    year: 1923
+  - source_title: Годы молодые с забубенной славой (Есенин)
+    year: 1924
+  - source_title: Письмо матери (Есенин)
+    year: 1924
+  - source_title: Мы теперь уходим понемногу (Есенин)
+    year: 1924
+  - source_title: Несказанное, синее, нежное (Есенин)
+    year: 1925
+  - source_title: Жизнь — обман с чарующей тоскою (Есенин)
+    year: 1925
+  - source_title: Гори, звезда моя, не падай (Есенин)
+    year: 1925
+  - source_title: Клён ты мой опавший (Есенин)
+    year: 1925
+  - source_title: Цветы мне говорят — прощай (Есенин)
+    year: 1925
+  - source_title: Чёрный человек (Есенин)
+    display_title: Чёрный человек
+    year: 1925
+  - source_title: До свиданья, друг мой, до свиданья (Есенин)
+    year: 1925
+- title: Сказки и повествовательные вещи
+  works:
+  - source_title: Бабушкины сказки (Есенин)
+    year: 1913
+  - source_title: Сиротка (Есенин)
+    year: 1914
+    display_subtitle: Русская сказка
+  - source_title: Лебёдушка (Есенин)
+    year: 1913
+  - source_title: Песнь о собаке (Есенин)
+    year: 1915
+  - source_title: Сказка о пастушонке Пете, его комиссарстве и коровьем царстве (Есенин)
+    display_title: Сказка о пастушонке Пете, его комиссарстве и коровьем царстве
+    notes: Wikisource also has /Версия 2 (an az.lib.ru <pre> import with notes); the base page is the FEB text and cleaner.
+    year: 1925
+  - source_title: Песнь о Евпатии Коловрате (Есенин)
+    year: 1925
+  - source_title: Анна Снегина (Есенин)
+    year: 1925
+- title: Несколько вещей просто потому, что они великие
+  works:
+  - source_title: Я покинул родимый дом (Есенин)
+    year: 1918
+  - source_title: Я последний поэт деревни (Есенин)
+    year: 1920
+  - source_title: Отговорила роща золотая (Есенин)
+    year: 1924
+  - source_title: Низкий дом с голубыми ставнями (Есенин)
+    year: 1924
+  - source_title: Ты запой мне ту песню, что прежде (Есенин)
+    year: 1925
+  - source_title: Мелколесье. Степь и дали (Есенин)
+    year: 1925

@@ -1,0 +1,139 @@
+# Editorial annotations for `esenin-epub discover` (keyed by Wikisource page title).
+# Fields: category, decision (include|maybe|exclude), reason. Works in selection.yaml are
+# always "include"; this file mostly records the "maybe" and notable "exclude" calls.
+Сказание о Евпатии Коловрате (Есенин):
+  category: fairy-tale/narrative
+  decision: maybe
+  reason: early 1912 redaction, heavy dialect, editorial footnotes; the 1925 «Песнь о Евпатии Коловрате» is in the book instead
+Всё живое особой метой (Есенин):
+  category: tavern/hooligan
+  decision: maybe
+  reason: strong hooligan self-portrait; left out only to keep Part IV compact
+Не ругайтесь! Такое дело! (Есенин):
+  category: confessional
+  decision: maybe
+  reason: good confessional piece, borderline for a second edition
+Эта улица мне знакома (Есенин):
+  category: confessional
+  decision: maybe
+  reason: Москва кабацкая, but mostly memory of home
+Этой грусти теперь не рассыпать (Есенин):
+  category: confessional
+  decision: maybe
+  reason: melancholy and return; half landscape
+Вечером синим, вечером лунным (Есенин):
+  category: confessional
+  decision: maybe
+  reason: eight-line regret; strong, could join Part IV
+Заря окликает другую (Есенин):
+  category: mortality
+  decision: maybe
+  reason: quiet mortality poem, near-duplicate mood of Part IV
+Синий туман. Снеговое раздолье (Есенин):
+  category: mortality
+  decision: maybe
+  reason: return home and death, partly landscape
+Над окошком месяц. Под окошком ветер (Есенин):
+  category: love
+  decision: maybe
+  reason: lost love via тальянка; short and lyrical
+Слышишь — мчатся сани (Есенин):
+  category: love
+  decision: maybe
+  reason: winter troika with a beloved; mostly scenery
+Сыпь, тальянка, звонко, сыпь, тальянка, смело! (Есенин):
+  category: love
+  decision: maybe
+  reason: youth and a girl remembered; harmonica poem
+Я красивых таких не видел (Есенин):
+  category: relationship
+  decision: maybe
+  reason: to sister Shura; people poem but family, not love
+Ах, как много на свете кошек (Есенин):
+  category: relationship
+  decision: maybe
+  reason: to sister; light
+Прощание с Мариенгофом (Есенин):
+  category: relationship
+  decision: maybe
+  reason: friendship and separation
+Русь советская (Есенин):
+  category: politics/revolution
+  decision: maybe
+  reason: confessional in tone but framed by politics
+Возвращение на родину (Есенин):
+  category: confessional
+  decision: maybe
+  reason: people and home, long and partly political
+Метель (Есенин):
+  category: confessional
+  decision: maybe
+  reason: dark self-examination, uneven
+Мой путь (Есенин):
+  category: confessional
+  decision: maybe
+  reason: autobiographical poem, long
+Цветы (Есенин):
+  category: love
+  decision: maybe
+  reason: 12-part cycle with «Любовь моя! Прости, прости…»; too long for the first edition
+Хулиган (Есенин):
+  category: tavern/hooligan
+  decision: maybe
+  reason: bravado but mostly landscape imagery
+Ветры, ветры, о снежные ветры (Есенин):
+  category: mortality
+  decision: maybe
+  reason: short, mortality with nature framing
+Русалка под Новый год (Есенин):
+  category: fairy-tale/narrative
+  decision: maybe
+  reason: early folk-fantasy narrative
+Лисица (Есенин):
+  category: fairy-tale/narrative
+  decision: maybe
+  reason: animal narrative, companion to «Песнь о собаке»
+Корова (Есенин):
+  category: fairy-tale/narrative
+  decision: maybe
+  reason: animal narrative, bleak
+Молитва матери (Есенин):
+  category: fairy-tale/narrative
+  decision: maybe
+  reason: short narrative, war-time; religious framing
+Пугачёв (Есенин):
+  category: fairy-tale/narrative
+  decision: exclude
+  reason: large dramatic poem, out of scope for the first edition
+Страна негодяев (Есенин):
+  category: politics/revolution
+  decision: exclude
+  reason: large dramatic poem, out of scope for the first edition
+Сказка о пастушонке Пете (Есенин):
+  category: fairy-tale/narrative
+  decision: exclude
+  reason: redirect to the full-title page that is already included
+Гой ты, Русь, моя родная (Есенин):
+  category: nature
+  decision: exclude
+  reason: landscape/patriotic; famous but off-theme
+Берёза (Есенин):
+  category: nature
+  decision: exclude
+  reason: pure landscape
+Спит ковыль. Равнина дорогая (Есенин):
+  category: nature
+  decision: exclude
+  reason: landscape with political coda
+Письмо к сестре (Есенин):
+  category: relationship
+  decision: maybe
+  reason: family letter-poem
+Ответ (Есенин):
+  category: relationship
+  decision: maybe
+  reason: letter to mother; political middle
+Письмо от матери (Есенин):
+  category: relationship
+  decision: maybe
+  reason: companion to «Письмо матери»
