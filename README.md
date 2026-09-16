@@ -60,3 +60,18 @@ One XHTML file per work (reliable page breaks on Kobo), EPUB3 `nav` with
 Part → Poem hierarchy plus an NCX for older firmware, a linked stylesheet
 that sets no font family, size, colour or justification, and a hanging
 indent on wrapped verse lines.
+
+## Audiobook
+
+`dist/esenin-love-and-tales.m4b` is the same book read aloud (ElevenLabs
+Eleven v3, voice "George", slowed to 0.9 with pitch preserved), one chapter
+per poem with the cover embedded. It is published as a GitHub release asset.
+
+To rebuild it you need an ElevenLabs key in `ELEVENLABS_API_KEY` (or `.env`):
+
+```bash
+uv run python scripts/audiobook.py render --voice-id JBFqnCBsd6RMkjVDRZzb   # audio/book/NN-slug.mp3, resumable
+uv run python scripts/audiobook.py merge --tempo 0.9                         # -> dist/esenin-love-and-tales.m4b
+```
+
+`scripts/tts_test.py` renders a few poems with several voices for comparison.

@@ -6,3 +6,6 @@ cache/*
 dist/*
 !dist/.gitkeep
 .pytest_cache/
+.env
+audio/*
+!audio/.gitkeep
