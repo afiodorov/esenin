@@ -65,7 +65,8 @@ indent on wrapped verse lines.
 
 `dist/esenin-love-and-tales.m4b` is the same book read aloud (ElevenLabs
 Eleven v3, voice "George", slowed to 0.9 with pitch preserved), one chapter
-per poem with the cover embedded. It is published as a GitHub release asset.
+per poem with the cover embedded. It is published as a GitHub release asset
+and on YouTube with chapter timestamps: https://youtu.be/CTknZ9vOxUw
 
 To rebuild it you need an ElevenLabs key in `ELEVENLABS_API_KEY` (or `.env`):
 
@@ -75,3 +76,5 @@ uv run python scripts/audiobook.py merge --tempo 0.9                         # -
 ```
 
 `scripts/tts_test.py` renders a few poems with several voices for comparison.
+`scripts/youtube_video.py` builds the cover-over-audio MP4 and the chapter
+description for YouTube.
